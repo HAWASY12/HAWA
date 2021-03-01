@@ -1,0 +1,235 @@
+*{font-family: cursive;
+	text-decoration: none;
+	list-style: none;
+}
+.nav .max-width{
+	height: 60px;
+	width: 97.01%;
+	background-color: blue;
+	padding-top: 20px;
+	padding-right: 40px;
+	margin-bottom: 0px;
+	margin-right: 40px;
+	position: relative;
+
+
+
+
+}
+.nav{	width: 100%;
+	position: fixed;
+}
+.nav .max-width .buton{
+float: right;
+padding-left: 200px;
+display: inline;
+margin-right: 60px;
+
+}
+.nav .max-width .logo{ 
+text-decoration:none;  padding-left: 70px;
+	display: inline-block; font-size: 25px;color: white;
+}
+.nav .max-width .logo span{
+	color:red;
+}
+.nav .max-width .logo a{
+	color:white;
+}
+.nav .max-width  .liste li{
+      color:white;
+       font-size:20px;
+      display: inline-block;
+      padding-left: 65px;
+
+}
+html, body {
+padding : 0;
+margin : 0;
+height : 100%;
+width: 100%;
+background: url('entrepreneur-1340649_1280.webp');
+}
+
+.nav .max-width .liste li:hover{ color: red; 	transition: color 0.5s;
+
+}
+.max-width1{
+height: 800px;
+background:url('entrepreneur-1340649_1280.webp');
+width: 1600px;
+}
+.all .max-width1 .bonjour { font-size: 40px;
+	color:white ; font-weight: bold; padding-top: 100px;
+	padding-left:40px;
+	display: inline-block; 
+}
+.all .max-width1 .bonjour span{color:red;
+
+}
+.all.max-width1 .bonjour .p{
+	                     font-size: 25px;
+	                 }
+.all .max-width1 .bonjour .button{
+	font-size: 25px;border:1px solid brown; color:white;
+	border-radius: 40px;
+	background-color: blue;
+	padding: 10px;
+
+}
+.all .max-width1 .bonjour .button:hover{
+	color:blue;
+	background-color: red;
+	border:1px solid blue; color:white;
+}
+
+.all1{background:url('flower-field-250016__480.jpg');
+	}
+.all1 .aboutme{ color: black;
+	padding-left:540px;
+	font-size: 40px;
+	text-decoration: underline brown;
+
+}
+
+.img{ height: 450px;width: 350px;
+	border-radius: 10px;
+	margin-left: 40px;
+
+}
+
+.all1 .width{
+display: flex;}
+.div-left{ display: inline-block;
+margin-left: 90px;
+}
+.div-right{ 	
+float: right;width: 500px;height: 500px;margin-right: 250px; color: white;
+
+}
+.div-right h2{
+	color: brown;
+}
+
+.me{
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 90px;
+	margin-top: 50px;
+	color: white;
+}
+.content{margin-top: 90px;}
+span{color:red;}
+.button2{font-size: 25px;border:1px solid white; color:white;
+	border-radius: 40px;
+	background-color: blue;
+	padding: 10px;
+	margin-top: 25px;
+
+}
+.button2:hover{
+	color:blue;
+	background-color: brown;
+	border:1px solid blue; color:white;
+}
+.all1& .max-width{ 	width: 100%;
+	height: 100%;
+	display: flex;
+	align-content: center;
+
+
+}
+.image{ width:280px; height: 260px; display: inline;
+	 background-color: black;
+padding-top: 10px;	
+margin-right: 20px; 
+border-radius: 5px;
+margin-top: 40px;
+
+}
+.text{ 
+	color: white;
+	margin-bottom:10px;
+}
+.p{  margin-top:50px;
+
+
+}
+.all1 .title p{
+	background-color: #00102b;
+color:white;
+display: inline-block;
+width: 50%;
+margin-left: 595px;
+margin-top:25px; 
+font-size: 40px;
+
+}
+/****************************************************************************/ 
+.v1{
+	background-color: black;
+	border-radius: 10px;
+	padding: 0px;
+	margin: 0px;
+   width: 70px;
+} 
+.v1 :hover{
+	background-color: pink;
+}
+
+
+
+.v1 .f img{
+	height: 110px;
+	width: 110px;
+	border-radius: 100px;
+}
+.n{
+	background: url('IMG-20210215-WA0007.jpg');
+}
+/*******************************************************************************************/
+.w .right-v .text .r2{
+	font-size: 55px;
+	font-weight: 400px;
+
+
+}
+.r2 h3{
+	font-size:30px; 
+	text-decoration: underline white;
+}
+
+}
+.w .right-v h3{
+	font-size: 20px;
+	text-align: justify;
+}
+.w .w-c .b{
+	margin-top: 20px;
+	display: inline-flex;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+	border:2px solid crimson;
+	border-radius: 20px;
+}
+.w .w-c .b:hover{
+	color: black;
+	background:yellow;}
+.sect{
+	background:url(/Users/admin/Downloads/pexels-pixabay-209224.jpg);
+	height: 900px;
+}
+.w{
+	background:orange;
+}
+.t1{
+	text-decoration: underline white;
+}
+.right-v{
+	height: 500px;
+	padding-right: 0px;
+	margin-left: 800px;
+	margin-top: -500px;
+	margin-bottom: -300px;
+}
